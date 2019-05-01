@@ -1,0 +1,10 @@
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\7 Theatre Promotions\bin\Debug\netcoreapp2.1\7 Theatre Promotions.deps.json
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\7 Theatre Promotions\bin\Debug\netcoreapp2.1\7 Theatre Promotions.runtimeconfig.json
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\7 Theatre Promotions\bin\Debug\netcoreapp2.1\7 Theatre Promotions.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\7 Theatre Promotions\bin\Debug\netcoreapp2.1\7 Theatre Promotions.dll
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\7 Theatre Promotions\bin\Debug\netcoreapp2.1\7 Theatre Promotions.pdb
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\7 Theatre Promotions\obj\Debug\netcoreapp2.1\7 Theatre Promotions.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\7 Theatre Promotions\obj\Debug\netcoreapp2.1\7 Theatre Promotions.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\7 Theatre Promotions\obj\Debug\netcoreapp2.1\7 Theatre Promotions.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\7 Theatre Promotions\obj\Debug\netcoreapp2.1\7 Theatre Promotions.dll
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\7 Theatre Promotions\obj\Debug\netcoreapp2.1\7 Theatre Promotions.pdb

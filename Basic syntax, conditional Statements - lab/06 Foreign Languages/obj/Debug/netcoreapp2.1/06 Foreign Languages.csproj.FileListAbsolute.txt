@@ -1,0 +1,10 @@
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\06 Foreign Languages\bin\Debug\netcoreapp2.1\06 Foreign Languages.deps.json
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\06 Foreign Languages\bin\Debug\netcoreapp2.1\06 Foreign Languages.runtimeconfig.json
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\06 Foreign Languages\bin\Debug\netcoreapp2.1\06 Foreign Languages.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\06 Foreign Languages\bin\Debug\netcoreapp2.1\06 Foreign Languages.dll
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\06 Foreign Languages\bin\Debug\netcoreapp2.1\06 Foreign Languages.pdb
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\06 Foreign Languages\obj\Debug\netcoreapp2.1\06 Foreign Languages.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\06 Foreign Languages\obj\Debug\netcoreapp2.1\06 Foreign Languages.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\06 Foreign Languages\obj\Debug\netcoreapp2.1\06 Foreign Languages.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\06 Foreign Languages\obj\Debug\netcoreapp2.1\06 Foreign Languages.dll
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\06 Foreign Languages\obj\Debug\netcoreapp2.1\06 Foreign Languages.pdb

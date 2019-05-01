@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\13 DebugtheCodeHolidays\bin\Debug\netcoreapp2.1\13 DebugtheCodeHolidays.deps.json
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\13 DebugtheCodeHolidays\bin\Debug\netcoreapp2.1\13 DebugtheCodeHolidays.runtimeconfig.json
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\13 DebugtheCodeHolidays\bin\Debug\netcoreapp2.1\13 DebugtheCodeHolidays.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\13 DebugtheCodeHolidays\bin\Debug\netcoreapp2.1\13 DebugtheCodeHolidays.dll
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\13 DebugtheCodeHolidays\bin\Debug\netcoreapp2.1\13 DebugtheCodeHolidays.pdb
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\13 DebugtheCodeHolidays\obj\Debug\netcoreapp2.1\13 DebugtheCodeHolidays.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\13 DebugtheCodeHolidays\obj\Debug\netcoreapp2.1\13 DebugtheCodeHolidays.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\13 DebugtheCodeHolidays\obj\Debug\netcoreapp2.1\13 DebugtheCodeHolidays.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\13 DebugtheCodeHolidays\obj\Debug\netcoreapp2.1\13 DebugtheCodeHolidays.dll
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\13 DebugtheCodeHolidays\obj\Debug\netcoreapp2.1\13 DebugtheCodeHolidays.pdb
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\13 DebugtheCodeHolidays\obj\Debug\netcoreapp2.1\13 DebugtheCodeHolidays.csprojAssemblyReference.cache

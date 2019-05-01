@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\05 MonthPrinter\bin\Debug\netcoreapp2.1\05 MonthPrinter.deps.json
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\05 MonthPrinter\bin\Debug\netcoreapp2.1\05 MonthPrinter.runtimeconfig.json
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\05 MonthPrinter\bin\Debug\netcoreapp2.1\05 MonthPrinter.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\05 MonthPrinter\bin\Debug\netcoreapp2.1\05 MonthPrinter.dll
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\05 MonthPrinter\bin\Debug\netcoreapp2.1\05 MonthPrinter.pdb
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\05 MonthPrinter\obj\Debug\netcoreapp2.1\05 MonthPrinter.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\05 MonthPrinter\obj\Debug\netcoreapp2.1\05 MonthPrinter.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\05 MonthPrinter\obj\Debug\netcoreapp2.1\05 MonthPrinter.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\05 MonthPrinter\obj\Debug\netcoreapp2.1\05 MonthPrinter.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\05 MonthPrinter\obj\Debug\netcoreapp2.1\05 MonthPrinter.dll
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\05 MonthPrinter\obj\Debug\netcoreapp2.1\05 MonthPrinter.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\01 StudentInformation\bin\Debug\netcoreapp2.1\01 StudentInformation.deps.json
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\01 StudentInformation\bin\Debug\netcoreapp2.1\01 StudentInformation.runtimeconfig.json
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\01 StudentInformation\bin\Debug\netcoreapp2.1\01 StudentInformation.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\01 StudentInformation\bin\Debug\netcoreapp2.1\01 StudentInformation.dll
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\01 StudentInformation\bin\Debug\netcoreapp2.1\01 StudentInformation.pdb
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\01 StudentInformation\obj\Debug\netcoreapp2.1\01 StudentInformation.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\01 StudentInformation\obj\Debug\netcoreapp2.1\01 StudentInformation.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\01 StudentInformation\obj\Debug\netcoreapp2.1\01 StudentInformation.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\01 StudentInformation\obj\Debug\netcoreapp2.1\01 StudentInformation.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\01 StudentInformation\obj\Debug\netcoreapp2.1\01 StudentInformation.dll
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\01 StudentInformation\obj\Debug\netcoreapp2.1\01 StudentInformation.pdb

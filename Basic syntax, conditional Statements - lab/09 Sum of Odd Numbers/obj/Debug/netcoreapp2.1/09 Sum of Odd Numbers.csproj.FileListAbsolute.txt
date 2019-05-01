@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\09 Sum of Odd Numbers\bin\Debug\netcoreapp2.1\09 Sum of Odd Numbers.deps.json
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\09 Sum of Odd Numbers\bin\Debug\netcoreapp2.1\09 Sum of Odd Numbers.runtimeconfig.json
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\09 Sum of Odd Numbers\bin\Debug\netcoreapp2.1\09 Sum of Odd Numbers.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\09 Sum of Odd Numbers\bin\Debug\netcoreapp2.1\09 Sum of Odd Numbers.dll
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\09 Sum of Odd Numbers\bin\Debug\netcoreapp2.1\09 Sum of Odd Numbers.pdb
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\09 Sum of Odd Numbers\obj\Debug\netcoreapp2.1\09 Sum of Odd Numbers.csprojAssemblyReference.cache
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\09 Sum of Odd Numbers\obj\Debug\netcoreapp2.1\09 Sum of Odd Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\09 Sum of Odd Numbers\obj\Debug\netcoreapp2.1\09 Sum of Odd Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\09 Sum of Odd Numbers\obj\Debug\netcoreapp2.1\09 Sum of Odd Numbers.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\09 Sum of Odd Numbers\obj\Debug\netcoreapp2.1\09 Sum of Odd Numbers.dll
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\09 Sum of Odd Numbers\obj\Debug\netcoreapp2.1\09 Sum of Odd Numbers.pdb

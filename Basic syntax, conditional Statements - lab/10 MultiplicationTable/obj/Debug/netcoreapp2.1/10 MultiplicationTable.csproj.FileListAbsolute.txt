@@ -1,0 +1,10 @@
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\10 MultiplicationTable\bin\Debug\netcoreapp2.1\10 MultiplicationTable.deps.json
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\10 MultiplicationTable\bin\Debug\netcoreapp2.1\10 MultiplicationTable.runtimeconfig.json
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\10 MultiplicationTable\bin\Debug\netcoreapp2.1\10 MultiplicationTable.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\10 MultiplicationTable\bin\Debug\netcoreapp2.1\10 MultiplicationTable.dll
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\10 MultiplicationTable\bin\Debug\netcoreapp2.1\10 MultiplicationTable.pdb
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\10 MultiplicationTable\obj\Debug\netcoreapp2.1\10 MultiplicationTable.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\10 MultiplicationTable\obj\Debug\netcoreapp2.1\10 MultiplicationTable.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\10 MultiplicationTable\obj\Debug\netcoreapp2.1\10 MultiplicationTable.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\10 MultiplicationTable\obj\Debug\netcoreapp2.1\10 MultiplicationTable.dll
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\10 MultiplicationTable\obj\Debug\netcoreapp2.1\10 MultiplicationTable.pdb

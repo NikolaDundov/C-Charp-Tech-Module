@@ -1,0 +1,10 @@
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\12 Even Number\bin\Debug\netcoreapp2.1\12 Even Number.deps.json
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\12 Even Number\bin\Debug\netcoreapp2.1\12 Even Number.runtimeconfig.json
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\12 Even Number\bin\Debug\netcoreapp2.1\12 Even Number.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\12 Even Number\bin\Debug\netcoreapp2.1\12 Even Number.dll
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\12 Even Number\bin\Debug\netcoreapp2.1\12 Even Number.pdb
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\12 Even Number\obj\Debug\netcoreapp2.1\12 Even Number.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\12 Even Number\obj\Debug\netcoreapp2.1\12 Even Number.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\12 Even Number\obj\Debug\netcoreapp2.1\12 Even Number.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\12 Even Number\obj\Debug\netcoreapp2.1\12 Even Number.dll
+D:\SoftUni\Tech Module\Basic syntax, conditional statements, loops\Basic syntax, conditional Statements\Lab\12 Even Number\obj\Debug\netcoreapp2.1\12 Even Number.pdb
