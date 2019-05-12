@@ -1,0 +1,11 @@
+D:\SoftUni\Tech Module\Associative Arrays\Lab\Dictionaries\02 Odd Occurrences\bin\Debug\netcoreapp2.1\02 Odd Occurrences.deps.json
+D:\SoftUni\Tech Module\Associative Arrays\Lab\Dictionaries\02 Odd Occurrences\bin\Debug\netcoreapp2.1\02 Odd Occurrences.runtimeconfig.json
+D:\SoftUni\Tech Module\Associative Arrays\Lab\Dictionaries\02 Odd Occurrences\bin\Debug\netcoreapp2.1\02 Odd Occurrences.runtimeconfig.dev.json
+D:\SoftUni\Tech Module\Associative Arrays\Lab\Dictionaries\02 Odd Occurrences\bin\Debug\netcoreapp2.1\02 Odd Occurrences.dll
+D:\SoftUni\Tech Module\Associative Arrays\Lab\Dictionaries\02 Odd Occurrences\bin\Debug\netcoreapp2.1\02 Odd Occurrences.pdb
+D:\SoftUni\Tech Module\Associative Arrays\Lab\Dictionaries\02 Odd Occurrences\obj\Debug\netcoreapp2.1\02 Odd Occurrences.csproj.CoreCompileInputs.cache
+D:\SoftUni\Tech Module\Associative Arrays\Lab\Dictionaries\02 Odd Occurrences\obj\Debug\netcoreapp2.1\02 Odd Occurrences.AssemblyInfoInputs.cache
+D:\SoftUni\Tech Module\Associative Arrays\Lab\Dictionaries\02 Odd Occurrences\obj\Debug\netcoreapp2.1\02 Odd Occurrences.AssemblyInfo.cs
+D:\SoftUni\Tech Module\Associative Arrays\Lab\Dictionaries\02 Odd Occurrences\obj\Debug\netcoreapp2.1\02 Odd Occurrences.dll
+D:\SoftUni\Tech Module\Associative Arrays\Lab\Dictionaries\02 Odd Occurrences\obj\Debug\netcoreapp2.1\02 Odd Occurrences.pdb
+D:\SoftUni\Tech Module\Associative Arrays\Lab\Dictionaries\02 Odd Occurrences\obj\Debug\netcoreapp2.1\02 Odd Occurrences.csprojAssemblyReference.cache
