@@ -1,0 +1,11 @@
+D:\SoftUni\C# Advanced\06 Defining Classes\DefiningClasses\Speed racing\bin\Debug\netcoreapp2.1\Speed racing.deps.json
+D:\SoftUni\C# Advanced\06 Defining Classes\DefiningClasses\Speed racing\bin\Debug\netcoreapp2.1\Speed racing.runtimeconfig.json
+D:\SoftUni\C# Advanced\06 Defining Classes\DefiningClasses\Speed racing\bin\Debug\netcoreapp2.1\Speed racing.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced\06 Defining Classes\DefiningClasses\Speed racing\bin\Debug\netcoreapp2.1\Speed racing.dll
+D:\SoftUni\C# Advanced\06 Defining Classes\DefiningClasses\Speed racing\bin\Debug\netcoreapp2.1\Speed racing.pdb
+D:\SoftUni\C# Advanced\06 Defining Classes\DefiningClasses\Speed racing\obj\Debug\netcoreapp2.1\Speed racing.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced\06 Defining Classes\DefiningClasses\Speed racing\obj\Debug\netcoreapp2.1\Speed racing.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\06 Defining Classes\DefiningClasses\Speed racing\obj\Debug\netcoreapp2.1\Speed racing.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\06 Defining Classes\DefiningClasses\Speed racing\obj\Debug\netcoreapp2.1\Speed racing.AssemblyInfo.cs
+D:\SoftUni\C# Advanced\06 Defining Classes\DefiningClasses\Speed racing\obj\Debug\netcoreapp2.1\Speed racing.dll
+D:\SoftUni\C# Advanced\06 Defining Classes\DefiningClasses\Speed racing\obj\Debug\netcoreapp2.1\Speed racing.pdb
